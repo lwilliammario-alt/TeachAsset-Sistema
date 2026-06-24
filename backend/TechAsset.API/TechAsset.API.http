@@ -1,0 +1,6 @@
+@TechAsset.API_HostAddress = http://localhost:5020
+
+GET {{TechAsset.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
